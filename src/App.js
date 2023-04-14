@@ -1,10 +1,11 @@
-import Reklama from "./Components/Reklama/Reklama";
+import './App.css'
+import Rek from "./Components/RekPage/Rek";
 
 
 function App() {
   return (
     <div className="App">
-      <Reklama />
+      <Rek />
     </div>
   );
 }
